@@ -1,0 +1,19 @@
+﻿using System;
+namespace pizzaApp.Model
+{
+    public class PizzasModel
+    {
+        public string ImageTitle { get; set; }
+        public string Name { get; set; }
+        public float BasePrice { get; set; } = 2;
+        public float FinalPrice { get; set; }
+        public bool TomatoSouce { get; set; }
+        public bool Chesse { get; set; }
+        public bool Pepperoni { get; set; }
+        public bool Ham { get; set; }
+        public bool Beef { get; set; }
+        public bool Pineapple { get; set; }
+        public bool Tuna { get; set; }
+        public bool Mushroom { get; set; }
+    }
+}

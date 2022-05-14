@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="{CB19551B-77E8-4D7D-B2B5-7A12FB6A5AFE}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.pizzaApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pizzaApp/Pages/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="pizzaApp/Pages/Error.cshtml" Line="27" Column="1" />
+      <File FileName="pizzaApp/Pages/Index.cshtml" Line="1" Column="1" />
+      <File FileName="pizzaApp/Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="pizzaApp/Pages/Shared/_Layout.cshtml" Line="16" Column="8" />
+      <File FileName="pizzaApp/wwwroot/css/site.css" Line="98" Column="19" />
+      <File FileName="pizzaApp/Pages/Pizza.cshtml" Line="27" Column="31" />
+      <File FileName="pizzaApp/Pages/Pizza.cshtml.cs" Line="1" Column="1" />
+      <File FileName="pizzaApp/Pages/Checkout/Checkout.cshtml" Line="16" Column="54" />
+      <File FileName="pizzaApp/Pages/Checkout/ThankYou.cshtml" Line="1" Column="1" />
+      <File FileName="pizzaApp/Pages/Checkout/ThankYou.cshtml.cs" Line="1" Column="1" />
+      <File FileName="pizzaApp/Pages/Forms/CustomPizza.cshtml" Line="10" Column="91" />
+      <File FileName="pizzaApp/Pages/Forms/CustomPizza.cshtml.cs" Line="1" Column="1" />
+      <File FileName="pizzaApp/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="pizzaApp/wwwroot/lib/bootstrap/dist/css/bootstrap.css" Line="1" Column="1" />
+      <File FileName="pizzaApp/Model/PizzasModel.cs" Line="1" Column="1" />
+      <File FileName="pizzaApp/Program.cs" Line="16" Column="1" />
+      <File FileName="pizzaApp/Startup.cs" Line="29" Column="1" />
+      <File FileName="pizzaApp/appsettings.json" Line="5" Column="5" />
+      <File FileName="pizzaApp/Pages/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="pizzaApp/Model/PizzaOrder.cs" Line="11" Column="1" />
+      <File FileName="pizzaApp/Data/ApplicationDBContext.cs" Line="17" Column="1" />
+      <File FileName="pizzaApp/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="pizzaApp/Pages/Checkout/Checkout.cshtml.cs" Line="46" Column="1" />
+      <File FileName="pizzaApp/Pages/Orders.cshtml" Line="3" Column="1" />
+      <File FileName="pizzaApp/Pages/Orders.cshtml.cs" Line="30" Column="1" />
+      <File FileName="pizzaApp/wwwroot/js/site.js" Line="1" Column="1" />
+      <File FileName="pizzaApp/Pages/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pizzaApp" expanded="True">
+            <Node name="pizzaApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Checkout" expanded="True" />
+                <Node name="Forms" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
